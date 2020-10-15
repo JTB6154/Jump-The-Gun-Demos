@@ -1,2 +1,2 @@
 # Jump-The-Gun-Demos
-This repository stores the current build demo for Jump The Gun
+This branch of the repository stores Jump The Gun (Build A1.02).
