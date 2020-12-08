@@ -12,4 +12,4 @@
 
 - If you haven’t been to our Discord server, follow this [***link***](https://discord.gg/wfejkKWuku) to be taken there. There you can chat with the developers and other testers and get the latest updates on the games continued progress. 
 
-- Once you’ve played through this early test, please feel free to fill out the playtest form [***here***](https://forms.gle/ZWvLG2Lr1oBB4Ytn6). We’d appreciate any feedback you can give as feedback will really help to improve the game.
+- Once you’ve played through this early test, please feel free to fill out the playtest form [***here***](https://forms.gle/FnQrgc1ADdNcFVwp8). We’d appreciate any feedback you can give as feedback will really help to improve the game.
